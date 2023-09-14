@@ -1,2 +1,2 @@
 # NumberGenius
- Projeto FAITEC 2023
+## Projeto _FAITEC_ 2023
